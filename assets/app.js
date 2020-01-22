@@ -1,0 +1,1 @@
+var setup = angular.module('setup', []);
