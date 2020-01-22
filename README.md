@@ -1,4 +1,4 @@
-# App name
+# Setup
 
 [brief description of the app]
 
